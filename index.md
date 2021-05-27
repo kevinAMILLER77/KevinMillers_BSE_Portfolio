@@ -5,7 +5,6 @@ I am working on a raspberry pi machine learning model
 |:--:|:--:|:--:|:--:|
 | Kevin Miller | RIT | Electrical Engineering | Graduated 
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
   
 # Final Milestone
